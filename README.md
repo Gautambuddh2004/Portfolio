@@ -1,16 +1,66 @@
-# React + Vite
+# React Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern and responsive personal portfolio built with React to showcase my skills, projects, and experience.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Coming Soon
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* Responsive design
+* Modern UI
+* Projects showcase
+* Skills section
+* Contact section
+* Fast React-based interface
 
-## Expanding the Oxlint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+* React
+* JavaScript
+* CSS
+* Vite
+
+## Getting Started
+
+### Clone the repository
+
+```bash
+git clone https://github.com/Gautambuddh2004/Portfolio.git
+```
+
+### Install dependencies
+
+```bash
+npm install
+```
+
+### Start the development server
+
+```bash
+npm run dev
+```
+
+### Build for production
+
+```bash
+npm run build
+```
+
+## Project Structure
+
+```text
+Portfolio/
+├── src/
+├── public/
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+## Author
+
+**Gautam Buddh**
+
+GitHub: <link href="https://github.com/Gautambuddh2004" title="Gautambuddh2004"/>
